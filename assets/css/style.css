@@ -267,20 +267,17 @@ input {
 
 @media only screen and (min-width: 640px) and (max-width: 980px){
 
-    body {
-        background-color: bisque;
-    }
 
     header {
-        padding: 0 10%;
+        padding: 0 5%;
     }
 
     #about-me {
-        margin: 25px 10% 0 10%;
+        margin: 25px 5% 0 5%;
     }
 
     #contact {
-        margin: 25px 10% 0 10%;
+        margin: 25px 5% 0 5%;
     }
 
     #gallery {
